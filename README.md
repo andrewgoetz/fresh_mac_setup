@@ -1,6 +1,6 @@
 # My Macbook Pro OS X config
 How I configure my Macbook to the way I like it.
-Lots of inspiration taken from https://github.com/nicolashery/mac-dev-setup
+Lots of inspiration taken from [Nicolas Hery](https://github.com/nicolashery). Check out his OS X dev setup [here](https://github.com/nicolashery/mac-dev-setup).
 
 ### OS X settings
 - Key remapping
