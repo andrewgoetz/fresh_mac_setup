@@ -1,21 +1,23 @@
 # My Macbook Pro OS X config
-How I configure my Macbook to the way I like it.
-Lots of inspiration taken from [Nicolas Hery](https://github.com/nicolashery). Check out his OS X dev setup [here](https://github.com/nicolashery/mac-dev-setup).
+This is list of my personal laptop set up. It will serve as a reminder/checklist for reinstalls and a place to store my  dotfiles.
+Lots of inspiration taken from [Nicolas Hery](https://github.com/nicolashery). Check out his mac dev setup [here](https://github.com/nicolashery/mac-dev-setup).
 
-### OS X settings
+## OS X settings
 - Key remapping
 - Key speed
 - Dock clean up and auto hide
+- Trackpad
 
-- Atom
-- iTerm2
-- OSX settings (keys, dock, resolution)
-- Password manager
+## installing languages and dev tools
+CLI tools
+
+## Atom
+
+## iTerm2
+
+## vim and config
+
 - themes and Color schemes for apps
-- CLI tools
-- installing languages and dev tools
-- vim and config
+- Password manager
 - dotfiles
-- broswers
-- apps
 - games
