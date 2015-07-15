@@ -2,6 +2,11 @@
 How I configure my Macbook to the way I like it.
 Lots of inspiration taken from https://github.com/nicolashery/mac-dev-setup
 
+### OS X settings
+- Key remapping
+- Key speed
+- Dock clean up and auto hide
+
 - Atom
 - iTerm2
 - OSX settings (keys, dock, resolution)
