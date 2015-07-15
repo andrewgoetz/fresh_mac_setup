@@ -11,7 +11,9 @@ Lots of inspiration taken from [Nicolas Hery](https://github.com/nicolashery). C
 - Dock > Automatically show and hide dock
 - Dock > Size > About 80% of the way towards small
 
-STILL NEEDS TO ADD, add major project directories to 'favorites sidebar', screenshots of Finder > Preferences, tags removed, auto open to 'andrew', what is displayed in finder windows, show file extensions, show view options, show path bar, show status bar, auto opening on login
+STILL NEEDS TO ADD, add major project directories to 'favorites sidebar', screenshots of Finder > Preferences, tags removed, auto open to 'andrew', what is displayed in finder windows, show file extensions, show view options, show path bar, show status bar, auto opening on login, Remove shared and tags
+New finder window to open in the home directory, Remove the display and bluetooth icons
+Change battery to show percentage symbols
 
 ## installing languages and dev tools
 CLI tools
