@@ -22,6 +22,14 @@ CLI tools
 
 ## iTerm2
 
+- General > uncheck Confirm closing multiple sessions 
+- General > uncheck Confirm "Quit iTerm2 (Cmd+Q)" command
+- Profiles > Create New > Set as Default
+- Profiles > Window > Columns: 125 and Rows: 35.
+- Profiles > Window > Transparecy: About 10% transparent
+
+Font: Decide between Powerling versions of Inconsolata, Meslo, and Source Code Pro
+
 ## vim and config
 
 - themes and Color schemes for apps
