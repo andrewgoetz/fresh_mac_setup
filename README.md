@@ -49,11 +49,13 @@ Homebrew
 
 ## Git
 
-- `brew install git`
+`brew install git`
 
 When done, to test that it installed fine you can run:
 
-```git --version```
+```
+git --version
+```
 
 And `which git` should output `/usr/local/bin/git`.
 
@@ -71,4 +73,6 @@ git config --global credential.helper osxkeychain
 
 ## Node.js
 
-- 
+`brew install node`
+
+
